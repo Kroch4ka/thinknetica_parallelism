@@ -1,1 +1,0 @@
-# thinknetica_parallelism
